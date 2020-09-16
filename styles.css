@@ -1,6 +1,6 @@
 body {
 background-color:#22292f;
-background-image: url(img/citybg.png);
+background-image: url(https://raw.githubusercontent.com/valerjanz/rstest/rsschool-cv-html/citybg.png);
 background-repeat: no-repeat;
 background-position: top center;
 }
@@ -46,12 +46,12 @@ background-position:100px 100px;
 }
 .block1 {
 	margin: 0px 0px 0px 0px;
-	background-image: url(img/arrowleft.png);
+	background-image: url(https://raw.githubusercontent.com/valerjanz/rstest/rsschool-cv-html/arrowleft.png);
 	background-repeat: no-repeat;
 }
 .block2 {
 	margin: 15px 0px 0px 0px;
-	background-image: url(img/arrowright.png);
+	background-image: url(https://raw.githubusercontent.com/valerjanz/rstest/rsschool-cv-html/arrowright.png);
 	background-repeat: no-repeat;
 	background-position: right top;
 }
